@@ -1,4 +1,28 @@
-C:/VHDL/EEL7123-LAB-3-C/CSA_IEAC.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/VHDL/EEL7123-LAB-3-C/CSA_IEAC.vhd
+C:/VHDL/EEL7123-LAB-3-C/arith_15_C2.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/VHDL/EEL7123-LAB-3-C/arith_15_C2.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity arith_15_C2
+-- Compiling architecture behavior of arith_15_C2
+
+} {} {}} C:/VHDL/EEL7123-LAB-3-C/arith_15_C3.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/VHDL/EEL7123-LAB-3-C/arith_15_C3.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity arith_15_C3
+-- Compiling architecture behavior of arith_15_C3
+
+} {} {}} C:/VHDL/EEL7123-LAB-3-C/arith_15_C4.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/VHDL/EEL7123-LAB-3-C/arith_15_C4.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity arith_15_C4
+-- Compiling architecture behavior of arith_15_C4
+
+} {} {}} C:/VHDL/EEL7123-LAB-3-C/CSA_IEAC.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/VHDL/EEL7123-LAB-3-C/CSA_IEAC.vhd
 Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
 -- Loading package STANDARD
 -- Loading package TEXTIO
